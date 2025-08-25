@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Matt Nickolaus 👋
+
+- 🤖 Backend Engineer
+- ⌨️ Apsiring Vim aficionado
+- 💙 Lover & Learner of Go 
+- ⚠️ Tolerator of Java & Python
+- 🦁 Penn State - New Grad
+
+- 🔭 I’m currently working on terminal based chip-tune music composer in python
 
 <!--
 **mattnickolaus/mattnickolaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
