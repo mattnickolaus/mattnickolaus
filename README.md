@@ -2,7 +2,7 @@
 
 * 🤖 Backend Engineer
 * ⌨️ Apsiring Vim aficionado
-* 💙 Lover & Learner of Go
+* 💙 Currently love learning Go
 * ⚠️ Tolerator of Java & Python
 * 🦁 Penn State - New Grad
 * 🔭 I’m currently working on terminal based chip-tune music composer in python
