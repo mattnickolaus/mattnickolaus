@@ -1,8 +1,8 @@
 ## Hi, I'm Matt Nickolaus 👋
 
 * 🤖 Backend Engineer
-* ⌨️ Apsiring Vim aficionado
-* 💙 Currently love learning Go
+* ⌨️ Vim aficionado
+* 💙 Currently enjoying Go & TypeScript
 * ⚠️ Tolerator of Java & Python
 * 🦁 Penn State - New Grad
-* 🔭 I’m currently working on terminal based chip-tune music composer in python
+* 🔭 I’m working on terminal based chip-tune music composer in Go
