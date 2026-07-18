@@ -1,8 +1,8 @@
-## Hi, I'm Matt Nickolaus 👋
+## Hey, I'm Matt Nickolaus
 
-* 🤖 Backend Engineer
+* 🎮 Recreational Graphics & Game Engine Programmer
 * ⌨️ Vim aficionado
-* 💙 Currently enjoying Go & TypeScript
-* ⚠️ Tolerator of Java & Python
-* 🦁 Penn State - New Grad
-* 🔭 I’m working on terminal based chip-tune music composer in Go
+* ⚙️ Aspiring C Grey Beard
+* 💙 Currently enjoying Go and exploring Odin
+* 🦁 Penn State Grad
+* 🔭 I'm currently working on a 3D Platformer in C
